@@ -68,3 +68,8 @@ form ul {
 #form13 header#header h2, #form13 header#header div {
     color: white;
 }
+@media only screen and (max-width: 767px) {
+form li.leftHalf, form li.rightHalf {
+    width: 100% !important;
+}
+}
