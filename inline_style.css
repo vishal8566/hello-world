@@ -65,3 +65,6 @@ form ul {
 #form13 header#header {
     display: block !important;
 }
+#form13 header#header h2, #form13 header#header div {
+    color: white;
+}
