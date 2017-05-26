@@ -62,3 +62,6 @@ form ul {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
+#form13 header#header {
+    display: block !important;
+}
