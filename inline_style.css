@@ -1,0 +1,64 @@
+
+ul li select {
+    padding: 10px !important;
+    border-radius: 4px !important;
+}
+input.text {
+    border-radius: 4px !important;
+    height: 40px !important;
+    padding: 0px;
+}
+input#saveForm {
+    background: #3e403e;
+    text-transform: uppercase;
+    color: #fff;
+    vertical-align: middle;
+    font: inherit;
+    text-align: center;
+    margin: 0;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    overflow: visible;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 9px 19px;
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    -webkit-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+input#saveForm:hover {
+    background: white;
+    color: #3e403e;
+}
+form li.error {
+    background: none !important;
+}
+form li.error .desc {
+    color: white !important;
+}
+header#header {
+    display: none;
+}
+.wufoo li.focused label.desc,.wufoo li.focused span {
+    color: #fff !important;
+}
+li#errorLi {
+    display: none;
+}
+form p.error {
+    display: none;
+    margin: 0 !important;
+    padding: 7px 0 0 0 !important;
+    line-height: 10px !important;
+    font-weight: normal;
+    font-size: 1em;
+    color: red !important;
+    clear: both;
+    font-family: 'Roboto', sans-serif;
+}
+form ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
