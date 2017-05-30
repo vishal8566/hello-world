@@ -69,7 +69,10 @@ form ul {
     color: white;
 }
 @media only screen and (max-width: 767px) {
-form li.leftHalf, form li.rightHalf {
-    width: 100% !important;
+    form li.leftHalf, form li.rightHalf {
+        width: 100% !important;
+    }
 }
+.wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label {
+    color: #ffffff;
 }
