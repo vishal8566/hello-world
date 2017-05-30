@@ -71,6 +71,7 @@ form ul {
 @media only screen and (max-width: 767px) {
     form li.leftHalf, form li.rightHalf {
         width: 100% !important;
+        padding: 10px 0 0 0;
     }
 }
 .wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label {
